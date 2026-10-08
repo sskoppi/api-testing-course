@@ -33,10 +33,7 @@ curl -i -X PATCH https://jsonplaceholder.typicode.com/users/1 -H "Content-Type: 
 
 ```
 HTTP/1.1 200 OK
+Date: Thu, 08 Oct 2026 14:02:08 GMT
 Content-Type: application/json; charset=utf-8
-
-{
-  "name": "Ada",
-  "id": 1
-}
+Content-Length: 499
 ```
