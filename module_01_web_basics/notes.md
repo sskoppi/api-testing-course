@@ -27,5 +27,26 @@
 - GET /posts?_limit=7 → 7 объектов
 - Вывод: гипотеза подтвердилась.
 
+  ## Web9
+- /users/2/posts → 10 объектов, id первого: 11
+- /posts?userId=2 → 10 объектов, id первого: 11
+- Вывод: это одни и те же данные, полученные двумя дорогами (через путь и через query).
+
+  ## Web10
+- GET /users/1 → 200
+- GET /users/11 → 404
+- GET /users/1?foo=bar → 200
+- Вывод: ресурс ломает путь (несуществующий id → 404), а лишний query-параметр (foo=bar) на ресурс не влияет.
+
+## Web11
+- GET /users (Postman):
+  - Content-Type: application/json; charset=utf-8
+  - Content-Length: не указан (Transfer-Encoding: chunked)
+- HTML-страница (любая в браузере):
+  - Content-Type: text/html; charset=utf-8
+- Вывод: у JSON и HTML разные Content-Type — браузер по нему понимает, как отображать данные.
   
-  
+## Web12
+- GET /todos?limit=5&page=1 → 5 объектов, id первого: 1
+- GET /todos?limit=5&page=2 → 5 объектов, id первого: 6
+- Вывод: _page задаёт номер страницы: page=1 — первые 5 записей, page=2 — следующие 5.
