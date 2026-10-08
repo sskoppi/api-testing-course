@@ -37,3 +37,38 @@ Date: Thu, 08 Oct 2026 14:02:08 GMT
 Content-Type: application/json; charset=utf-8
 Content-Length: 499
 ```
+
+
+## Met8. curl: POST и GET
+
+### Команда 1 — POST
+
+```
+curl -i -X POST https://jsonplaceholder.typicode.com/posts -H "Content-Type: application/json" -d "{\"title\": \"Мой пост\", \"body\": \"Текст\", \"userId\": 1}"
+```
+
+**Вывод:**
+
+```
+HTTP/1.1 201 Created
+Content-Type: application/json; charset=utf-8
+Content-Length: 85
+...
+```
+
+### Команда 2 — GET
+
+```
+curl -i https://jsonplaceholder.typicode.com/users/3
+```
+
+**Вывод:**
+
+```
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Length: 205
+...
+```
+
+**Вопрос к себе.** Ключ `-i` показал заголовки ответа. Без него на экране осталось бы только тело JSON — и в багрепорте не было бы видно, какой статус и формат вернул сервер. Одного тела для воспроизведения бага мало: нужны метод, URL, тело запроса и заголовки ответа.
