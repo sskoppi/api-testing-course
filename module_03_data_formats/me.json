@@ -1,1 +1,14 @@
 
+{
+  "name": "Софья",
+  "age": 18,
+  "student": true,
+  "middleName": Киреенко,
+  "address": {
+    "city": "Москва",
+    "zip": "101000"
+  },
+  "hobbies": ["чтение", "рисование", "программирование"],
+  "email": "sofya@example.com",
+  "course": "API Testing"
+}
