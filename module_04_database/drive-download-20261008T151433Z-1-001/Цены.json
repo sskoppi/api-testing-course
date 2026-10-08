@@ -1,0 +1,362 @@
+[
+  {
+    "id": 317,
+    "item_id": 739,
+    "item_type": "Материал",
+    "price": 35.0
+  },
+  {
+    "id": 114,
+    "item_id": 14,
+    "item_type": "Материал",
+    "price": 180.0
+  },
+  {
+    "id": 203,
+    "item_id": 69,
+    "item_type": "Товар",
+    "price": 4200.0
+  },
+  {
+    "id": 428,
+    "item_id": 189,
+    "item_type": "Материал",
+    "price": 25.0
+  },
+  {
+    "id": 124,
+    "item_id": 24,
+    "item_type": "Материал",
+    "price": 350.0
+  },
+  {
+    "id": 208,
+    "item_id": 881,
+    "item_type": "Товар",
+    "price": 7800.0
+  },
+  {
+    "id": 107,
+    "item_id": 7,
+    "item_type": "Операция",
+    "price": 1400.0
+  },
+  {
+    "id": 424,
+    "item_id": 915,
+    "item_type": "Материал",
+    "price": 45.0
+  },
+  {
+    "id": 313,
+    "item_id": 219,
+    "item_type": "Материал",
+    "price": 45.0
+  },
+  {
+    "id": 119,
+    "item_id": 19,
+    "item_type": "Материал",
+    "price": 45.0
+  },
+  {
+    "id": 430,
+    "item_id": 456,
+    "item_type": "Материал",
+    "price": 25.0
+  },
+  {
+    "id": 120,
+    "item_id": 20,
+    "item_type": "Материал",
+    "price": 15.0
+  },
+  {
+    "id": 425,
+    "item_id": 542,
+    "item_type": "Материал",
+    "price": 15.0
+  },
+  {
+    "id": 205,
+    "item_id": 20,
+    "item_type": "Товар",
+    "price": 18500.0
+  },
+  {
+    "id": 102,
+    "item_id": 2,
+    "item_type": "Материал",
+    "price": 37.5
+  },
+  {
+    "id": 312,
+    "item_id": 671,
+    "item_type": "Материал",
+    "price": 180.0
+  },
+  {
+    "id": 117,
+    "item_id": 17,
+    "item_type": "Материал",
+    "price": 180.0
+  },
+  {
+    "id": 201,
+    "item_id": 1,
+    "item_type": "Товар",
+    "price": 14120.0
+  },
+  {
+    "id": 422,
+    "item_id": 724,
+    "item_type": "Материал",
+    "price": 380.0
+  },
+  {
+    "id": 128,
+    "item_id": 28,
+    "item_type": "Операция",
+    "price": 150.0
+  },
+  {
+    "id": 316,
+    "item_id": 584,
+    "item_type": "Материал",
+    "price": 200.0
+  },
+  {
+    "id": 426,
+    "item_id": 273,
+    "item_type": "Материал",
+    "price": 280.0
+  },
+  {
+    "id": 121,
+    "item_id": 21,
+    "item_type": "Материал",
+    "price": 280.0
+  },
+  {
+    "id": 104,
+    "item_id": 4,
+    "item_type": "Материал",
+    "price": 145.71875
+  },
+  {
+    "id": 319,
+    "item_id": 862,
+    "item_type": "Материал",
+    "price": 450.0
+  },
+  {
+    "id": 109,
+    "item_id": 9,
+    "item_type": "Материал",
+    "price": 450.0
+  },
+  {
+    "id": 116,
+    "item_id": 16,
+    "item_type": "Материал",
+    "price": 250.0
+  },
+  {
+    "id": 118,
+    "item_id": 18,
+    "item_type": "Материал",
+    "price": 320.0
+  },
+  {
+    "id": 126,
+    "item_id": 26,
+    "item_type": "Операция",
+    "price": 300.0
+  },
+  {
+    "id": 122,
+    "item_id": 22,
+    "item_type": "Материал",
+    "price": 650.0
+  },
+  {
+    "id": 427,
+    "item_id": 668,
+    "item_type": "Материал",
+    "price": 850.0
+  },
+  {
+    "id": 123,
+    "item_id": 23,
+    "item_type": "Материал",
+    "price": 850.0
+  },
+  {
+    "id": 315,
+    "item_id": 127,
+    "item_type": "Материал",
+    "price": 1400.0
+  },
+  {
+    "id": 105,
+    "item_id": 5,
+    "item_type": "Материал",
+    "price": 1242.5
+  },
+  {
+    "id": 421,
+    "item_id": 158,
+    "item_type": "Материал",
+    "price": 1200.0
+  },
+  {
+    "id": 125,
+    "item_id": 25,
+    "item_type": "Материал",
+    "price": 1200.0
+  },
+  {
+    "id": 129,
+    "item_id": 29,
+    "item_type": "Операция",
+    "price": 1200.0
+  },
+  {
+    "id": 112,
+    "item_id": 12,
+    "item_type": "Материал",
+    "price": 1500.0
+  },
+  {
+    "id": 314,
+    "item_id": 953,
+    "item_type": "Материал",
+    "price": 1500.0
+  },
+  {
+    "id": 113,
+    "item_id": 13,
+    "item_type": "Материал",
+    "price": 750.0
+  },
+  {
+    "id": 111,
+    "item_id": 11,
+    "item_type": "Материал",
+    "price": 550.0
+  },
+  {
+    "id": 110,
+    "item_id": 10,
+    "item_type": "Материал",
+    "price": 480.0
+  },
+  {
+    "id": 101,
+    "item_id": 1,
+    "item_type": "Материал",
+    "price": 432.083333
+  },
+  {
+    "id": 103,
+    "item_id": 3,
+    "item_type": "Материал",
+    "price": 17.125
+  },
+  {
+    "id": 106,
+    "item_id": 6,
+    "item_type": "Операция",
+    "price": 450.0
+  },
+  {
+    "id": 108,
+    "item_id": 8,
+    "item_type": "Операция",
+    "price": 1900.0
+  },
+  {
+    "id": 115,
+    "item_id": 15,
+    "item_type": "Материал",
+    "price": 120.0
+  },
+  {
+    "id": 423,
+    "item_id": 387,
+    "item_type": "Материал",
+    "price": 150.0
+  },
+  {
+    "id": 127,
+    "item_id": 27,
+    "item_type": "Операция",
+    "price": 800.0
+  },
+  {
+    "id": 311,
+    "item_id": 44,
+    "item_type": "Материал",
+    "price": 950.0
+  },
+  {
+    "id": 202,
+    "item_id": 12,
+    "item_type": "Товар",
+    "price": 8500.0
+  },
+  {
+    "id": 204,
+    "item_id": 83,
+    "item_type": "Товар",
+    "price": 25000.0
+  },
+  {
+    "id": 206,
+    "item_id": 306,
+    "item_type": "Товар",
+    "price": 32000.0
+  },
+  {
+    "id": 207,
+    "item_id": 942,
+    "item_type": "Товар",
+    "price": 3500.0
+  },
+  {
+    "id": 209,
+    "item_id": 398,
+    "item_type": "Товар",
+    "price": 4500.0
+  },
+  {
+    "id": 210,
+    "item_id": 887,
+    "item_type": "Товар",
+    "price": 45000.0
+  },
+  {
+    "id": 318,
+    "item_id": 306,
+    "item_type": "Материал",
+    "price": 12.0
+  },
+  {
+    "id": 320,
+    "item_id": 491,
+    "item_type": "Материал",
+    "price": 85.0
+  },
+  {
+    "id": 429,
+    "item_id": 834,
+    "item_type": "Материал",
+    "price": 35.0
+  },
+  {
+    "id": 130,
+    "item_id": 30,
+    "item_type": "Операция",
+    "price": 200.0
+  }
+]
